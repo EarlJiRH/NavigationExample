@@ -1,0 +1,40 @@
+{
+  "selectTab": 0,
+  "tabs": [
+    {
+      "size": 24,
+      "enable": true,
+      "pageUrl": "main/tabs/home",
+      "index": 0,
+      "title": "首页"
+    },
+    {
+      "size": 24,
+      "enable": true,
+      "pageUrl": "main/tabs/dashboard",
+      "index": 1,
+      "title": "菜单"
+    },
+    {
+      "size": 24,
+      "enable": true,
+      "pageUrl": "main/tabs/notifications",
+      "index": 2,
+      "title": "通知"
+    },
+    {
+      "size": 40,
+      "enable": true,
+      "pageUrl": "main/tabs/user",
+      "index": 3,
+      "title": "我的"
+    },
+    {
+      "size": 40,
+      "enable": false,
+      "pageUrl": "main/tabs/message",
+      "index": 4,
+      "title": "消息"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">导航测试</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">菜单</string>
+    <string name="title_notifications">通知</string>
+    <string name="title_user">我的</string>
+</resources>
