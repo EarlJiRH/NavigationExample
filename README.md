@@ -1,2 +1,2 @@
-# WanAndroidExample
-使用Kotlin实现玩Android的移动端
+# NavigationExample
+java与kotlin混合改造Navigation的示例代码
